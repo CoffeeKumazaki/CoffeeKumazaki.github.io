@@ -28,6 +28,17 @@ body {
     line-height: 100%;
 }
 
+.section-subtitle {
+    margin-bottom: 10px;
+    font-family: 'Passion One', cursive;
+    font-size: 24px;
+    line-height: 100%;
+}
+
+.skill {
+    margin-top: 15px;
+}
+
 .education .year {
     font-weight: 700;
     color: #f6c555;
@@ -38,6 +49,10 @@ body {
 }
 .education .school {
     margin-block-start: -1em;
+}
+
+.publications {
+    padding-right: 40px;
 }
 
 .publications .authors {
