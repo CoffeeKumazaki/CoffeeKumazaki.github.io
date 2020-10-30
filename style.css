@@ -1,0 +1,59 @@
+body {
+    background-color: #1C1C1C !important;
+    padding: 40px;
+    color: #eee !important;
+}
+
+.section {
+    background-color: #343434;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.name {
+    width: 100%;
+    font-family: 'Passion One', cursive;
+    font-size: 63px;
+    padding-bottom: 0px;
+}
+
+.name > p {
+    font-size: 24px;
+}
+
+.section-title {
+    margin-bottom: 10px;
+    font-family: 'Passion One', cursive;
+    font-size: 36px;
+    line-height: 100%;
+}
+
+.education .year {
+    font-weight: 700;
+    color: #f6c555;
+}
+
+.education .course {
+    margin-block-end: 1em;
+}
+.education .school {
+    margin-block-start: -1em;
+}
+
+.publications .authors {
+    font-weight: 700;
+}
+
+.publications .me {
+    text-decoration: underline;
+    color: #f6c555;
+}
+
+.publications .title {
+    font-style: italic;
+}
+
+.publications li {
+    margin-bottom: 15px;
+    padding-left: 15px;
+}
