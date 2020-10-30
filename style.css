@@ -58,13 +58,13 @@ body {
     padding-left: 15px;
 }
 
-.sns-link ul{
+.snslink ul{
     display: inline-flex;
     justify-content: center;
     list-style: none;
 }
 
-.sns-link img {
+.snslink img {
     width: 40px;
     height: 40px;
     margin-left: 5px;
