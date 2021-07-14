@@ -73,6 +73,34 @@ body {
     padding-left: 15px;
 }
 
+.contribution {
+    padding-right: 40px;
+}
+
+.contribution .authors {
+    font-weight: 700;
+}
+
+.contribution .me {
+    text-decoration: underline;
+    color: #f6c555;
+}
+
+.contribution .title {
+    font-style: italic;
+}
+
+.contribution a {
+    font-style: normal;
+}
+
+
+.contribution li {
+    margin-bottom: 15px;
+    padding-left: 15px;
+}
+
+
 .presentations {
     padding-right: 40px;
 }
