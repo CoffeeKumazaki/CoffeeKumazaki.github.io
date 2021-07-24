@@ -100,6 +100,14 @@ body {
     padding-left: 15px;
 }
 
+.contribution .card {
+    background-color: #4e4e4e;
+    color: #d1d1d1
+}
+
+.text-muted {
+    color: #d1d1d1;
+}
 
 .presentations {
     padding-right: 40px;
@@ -142,4 +150,9 @@ footer {
 
 .container {
     margin-left: 10px !important;
+}
+
+.teaching .year {
+    font-weight: 700;
+    color: #f6c555;
 }
